@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://blackboard.cuhk.edu.hk/
+HostUrl=https://learn-ap-southeast-1-prod-fleet02-xythos.content.blackboardcdn.com/593a61e7aa84f/659302?X-Blackboard-Expiration=1613077200000&X-Blackboard-Signature=BXWxiPA3DQpzylBWgrc7S41sG0sFewmIVf5i4Yk5NWE%3D&X-Blackboard-Client-Id=300478&response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27fin-ratio.csv&response-content-type=text%2Fcsv&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210211T150000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=AKIAZH6WM4PL2RCDY4NT%2F20210211%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Signature=34cfc438fb74abafd1c63b2fa6623cf5559f22f64bb6f83b0fed6a72bc89f47b
